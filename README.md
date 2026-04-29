@@ -26,7 +26,7 @@
 | Aarya Srivastava | 2401010008 | EDA & Analysis, Tableau Dashboard | [📄 Resume](./DVA-focused-Resume/Aarya-Resume/Aarya_Srivastava_Resume.pdf) | [🌐 Portfolio](https://aarya-sr.github.io/Portfolio_DVA/) |
 | Mayank Yadav | 2401010271 | EDA & Analysis, PPT & Viva | — | — |
 | Sarvjeet Yadav | 2401010424 | EDA & Analysis, PPT & Viva | — | — |
-| Omkar Hadole | 2401010175 | Tableau Dashboard, PPT & Viva | — | — |
+| Omkar Hadole | 2401010175 | Tableau Dashboard, PPT & Viva | [📄 Resume](./DVA-focused-Resume/Omkar%20Hadole/omkar-hadole_resume.pdf) | [🌐 Portfolio](https://omkar-dva-portfolio.vercel.app/) |
 | Debasish Karan | 2401010141 | Statistical Analysis, PPT & Viva | — | — |
 
 **Faculty Mentor:** Satyaki Das

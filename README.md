@@ -250,7 +250,7 @@ pip install pandas numpy matplotlib seaborn scipy jupyter
 ### Running the Notebooks
 ```bash
 # Clone the repository
-git clone [<repository-url>](https://github.com/lakshyabapna/SectionA_G9_Customer_Churn_Intelligence)
+git clone https://github.com/lakshyabapna/SectionA_G9_Customer_Churn_Intelligence.git
 cd SectionA_G9_Customer_Churn_Intelligence
 
 # Launch Jupyter
